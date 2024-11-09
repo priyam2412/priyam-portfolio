@@ -96,14 +96,14 @@ export const HeroRightContainer = styled.div`
 
 export const Img = styled(motion.img)`
   position: relative;
-  width: 160%;
+  width: 150%;
   height: 180%;
   max-width: 350px;
-  max-height: 350px;
-  border-radius: 50%;
+  max-height: 450px;
+  border-radius: 25%;
   border: 2px solid ${({ theme }) => theme.primary};
   object-fit: cover;
-  object-position: 1px 3px;
+  object-position: 0px 0px;
   transition: transform 0.3s ease-in-out; /* Smooth transition */
 
 
