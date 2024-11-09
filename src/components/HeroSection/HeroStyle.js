@@ -1,5 +1,7 @@
 import styled from "styled-components";
 import _default from "../../themes/default";
+import {motion} from 'framer-motion';
+
 
 export const HeroContainer = styled.div`
   background: ${({ theme }) => theme.card_light};
@@ -92,7 +94,7 @@ export const HeroRightContainer = styled.div`
   }
 `;
 
-export const Img = styled.img`
+export const Img = styled(motion.img)`
   position: relative;
   width: 160%;
   height: 180%;
@@ -100,10 +102,11 @@ export const Img = styled.img`
   max-height: 350px;
   border-radius: 50%;
   border: 2px solid ${({ theme }) => theme.primary};
-  object-fit: cover; 
+  object-fit: cover;
   object-position: 1px 3px;
-  transform: scale();/* Ensures the image covers the container while maintaining aspect ratio */
-  
+  transition: transform 0.3s ease-in-out; /* Smooth transition */
+
+
 
   @media (max-width: 768px) {
     max-width: 400px;
