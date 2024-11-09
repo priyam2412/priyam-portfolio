@@ -263,7 +263,7 @@ export const experiences = [
       "Android SDK",
       "JAVA",
     ],
-    doc: "https://drive.google.com/file/d/1PtnY7aps2jOkjdyrvA5NdVvZwrEZsG3N/view?usp=sharing"
+    doc: "https://raw.githubusercontent.com/nucleus2004/priyam-portfolio/refs/heads/main/src/images/WhatsApp%20Image%202024-11-10%20at%2000.41.05_52cc2ce8.jpg"
   },
   {
     id: 4,
