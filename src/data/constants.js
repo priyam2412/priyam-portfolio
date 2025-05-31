@@ -8,9 +8,9 @@ export const Bio = {
   ],
   description:
     " I'm Enthusiastic and skilled in both frontend and backend development. I am passionate about creating impactful solutions through innovative problem-solving, effective teamwork, and clear communication. Experienced in coding competitions and collaborative projects, I bring a proactive approach to tackling challenges and optimizing processes. Eager to contribute my skills to drive technology-driven advancements and make a positive impact in a dynamic work environment.",
-  github: "https://github.com/nucleus2004",
+  github: "https://github.com/priyam2412",
   resume:
-    "https://drive.google.com/file/d/1XzIcU5Wc910PLDrkl3Xq0k_R9ae0FmQ0/view?usp=sharing",
+    "https://drive.google.com/file/d/1HfTIMGzE7UuNUxB3gSXTc5Dz4LStk8M1/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/priyam-prasad-sahoo-5484911a9/",
   twitter: "https://x.com/priyamprasad04",
   insta: "https://www.instagram.com/_.priyam._24/",
@@ -220,35 +220,40 @@ export const experiences = [
   //   ],
   //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   // },
-  // {
-  //   id: 1,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //   role: "Fullstack Externship",
-  //   company: "Flipr",
-  //   date: "June 2023 - July 2023",
-  //   desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-  //   skills: [
-  //     "ReactJS",
-  //     "Redux",
-  //     "NodeJs",
-  //     "Material UI",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //     "Docker",
-  //     "AWS",
-  //     "MongoDB",
-  //   ],
-  // },
-  // {
-  //   id: 2,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-  //   role: "Open Source Contributor ",
-  //   company: "GirlScript Summer of Code",
-  //   date: "May 2023 - Present",
-  //   desc: "Contributing to different open-source projects and learn from industry experts",
-  //   doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-  // },
+  {
+    id: 1,
+    img: "https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File-180x180.png",
+    role: "Cloud Virtual Intership-AWS",
+    company: "NEAT- Eduskills",
+    date: "01/2025 - 03/2025",
+    desc: "Completed an AWS Cloud Virtual Internship, where I gained hands-on experience with core cloud computing services and architecture. Worked on real-world projects involving cloud deployment, storage solutions, and serverless computing using AWS services such as EC2, S3, Lambda, and RDS. Strengthened my understanding of cloud security, scalability, and cost optimization. This experience enhanced my ability to design, implement, and manage efficient, secure, and scalable cloud-based solutions.",
+    skills: [
+      "AWS",
+      "EC2",
+      "S3",
+      "Lambda",
+      "RDS",
+      "Cloud Computing",
+      "Cloud Security",
+    ],
+    doc: "https://github.com/priyam2412/priyam-portfolio/blob/main/src/images/Priyam%20Prasad%20Sahoo%20(Cloud)_page-0001.jpg?raw=true",
+  },
+  {
+    id: 2,
+    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
+    role: "Virtual Internship-Google AI-ML",
+    company: "NEAT- Eduskills",
+    date: "10/2024 - 12/2024",
+    desc: "Completed a Google AI-ML Virtual Internship, where I gained practical experience in developing and deploying machine learning models. Worked on real-world datasets, focusing on data preprocessing, model training, and evaluation using tools like Python, TensorFlow, and scikit-learn. Strengthened my understanding of core AI/ML concepts, including supervised and unsupervised learning, natural language processing, and model optimization. This experience enhanced my ability to build intelligent, data-driven solutions with a focus on performance, accuracy, and real-world applicability.",
+    skills: [
+      "Python",
+      "TensorFlow",
+      "scikit-learn",
+      "Machine Learning",
+      "Artificial Intelligence",
+    ],
+    doc: "https://github.com/priyam2412/priyam-portfolio/blob/main/src/images/Priyam%20Prasad%20Sahoo(Ai-Ml)_page-0001.jpg?raw=true",
+  },
   {
     id: 3,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
@@ -267,7 +272,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://zeevector.com/wp-content/uploads/PMKVY-Logo-Vector.png",
+    img: "https://github.com/priyam2412/priyam-portfolio/blob/main/src/images/PMKVY-Logo-PNG-HD-Transparent-1024x457.png?raw=true",
     role: "PMKVY-4.0",
     company: "Skill India- NSDC",
     date: "2024",
@@ -279,7 +284,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://static.kabaddiadda.com/images/playerImages/aiiu/7310_SRM_University.png",
+    img: "https://github.com/priyam2412/priyam-portfolio/blob/main/src/images/srm-university-logo-png_seeklogo-239849.png?raw=true",
     school: "SRM Institute of Science and Technology,Kattankulathur",
     date: "Apr 2023 - Sep 2027",
     grade: "Ongoing",
@@ -376,7 +381,7 @@ export const projects = [
   {
     id: 2,
     title: "Smart India Hackathon",
-    date: "Ongoing",
+    date: "2024",
     description:
       "Qualified for External Round",
     image:
@@ -411,19 +416,19 @@ export const projects = [
     category: "certificates",
     certificates: "https://drive.google.com/file/d/1PwuVvHYFNAHddqwA31nLuLxc6yNWJM-7/view?usp=drivesdk"
   },
-  // {
-  //   id: 4,
-  //   title: "Whatsapp Clone",
-  //   date: "Jul 2021",
-  //   description:
-  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //   webapp: "https://whatsapp-clone-rishav.web.app",
-  // },
+  {
+    id: 4,
+    title: "Software Engineering Job Simulation",
+    date: "2025",
+    description:
+      "By JP Morgan Chase & Co.",
+    image:
+      "https://logo-marque.com/wp-content/uploads/2021/02/JP-Morgan-Chase-Embleme.jpg",
+    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+    category: "certificates",
+    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+    webapp: "https://whatsapp-clone-rishav.web.app",
+  },
   // {
   //   id: 5,
   //   title: "Todo Web App",
